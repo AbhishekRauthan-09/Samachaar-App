@@ -1,0 +1,1 @@
+Code is present in the src folder then in Component folder all 3 screens code is present in seperate file
