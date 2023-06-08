@@ -22,7 +22,6 @@ const Screen2 = () => {
     setCount(20);
     setShow(true);
   };
-  console.log(count);
 
   return (
     <div className="page screen2">
